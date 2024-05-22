@@ -1,0 +1,14 @@
+Builder Potion,3600,10
+Research Potion,3600,24
+Clock Tower Potion,1800,10
+Training Potion,3600,4
+Clock Tower Boost Lv1,840,10
+Clock Tower Boost Lv2,960,10
+Clock Tower Boost Lv3,1080,10
+Clock Tower Boost Lv4,1200,10
+Clock Tower Boost Lv5,1320,10
+Clock Tower Boost Lv6,1440,10
+Clock Tower Boost Lv7,1560,10
+Clock Tower Boost Lv8,1680,10
+Clock Tower Boost Lv9,1800,10
+Clock Tower Boost Lv10,1920,10
